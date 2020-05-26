@@ -1,0 +1,33 @@
+HTML  - Estrutura de páginas Web
+CSS   - Estilo das páginas Web
+JS    - Interações das páginas Web
+
+Javascript != Java
+
+Visão geral do livro:
+
+Parte I
+Cap 1 - Introdução
+Cap 2 - Estrutura léxica
+Cap 3 - Tipos, valores e variáveis
+Cap 4 - Expressões e operadores
+Cap 5 - Instruções
+Cap 6 - Objetos
+Cap 7 - Arrays
+Cap 8 - Funções
+Cap 9 - Classes o Módulos
+Cap 10 - Comparação de padrões com expressões regulares
+Cap 11 - Subconjuntos e extensões de JavaScript
+Cap 12 - JavaScript do lado do servidor
+
+Parte II
+Cap 13 - JavaScript em navegadores Web
+Cap 14 - O objeto Window
+Cap 15 - Escrevendo scripts de documentos
+Cap 16 - Scripts de CSS
+Cap 17 - Tratando eventos
+Cap 18 - Scripts HTTP
+Cap 19 - A biblioteca jQuery
+Cap 20 - Armazenamento no lado do cliente
+Cap 21 - Mídia e gráficos em scripts
+Cap 22 - APIs de HTML5

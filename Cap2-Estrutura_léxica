@@ -1,0 +1,40 @@
+Capítulo 2 - Estrutura léxica
+
+Javascript diferencia MAIÚSCULO de minúsculo
+
+- COMENTÁRIO
+//Isso é um comentário em linha em JS
+
+/* Este também é um comentário */
+
+/*
+* Este é ainda outro comentário
+* Com várias linhas
+*/
+
+- PALAVRAS RESERVADAS (Não podem ser usadas como nome de variáveis)
+
+break       delete    function    return        typeof
+case        do        if          switch        var
+catch       else      in          this          void
+continue    false     while       instanceof    throw     
+debugger    finally   new         true          with
+default     for       null        try           import
+class       const     enum        export        extends     
+implements  let       private     public        yield
+interface   package   protected   static        super
+arguments   eval
+abstract    double    goto        native        static
+boolean     enum      implements  package       super
+byte        export    import      private       synchronized
+char        extends   int         protected     throws
+class       final     interface   public        transient
+const       float     long        short         volatile
+arguments   encodeURI Infinity    Number        RegExp
+Array       encodeURIComponent    isFinite      Object          String
+Boolean     Error     isNaN       parseFloat    SyntaxError
+Date        eval      JSON        parseInt      TypeError
+decodeURI   EvalError Math        RangeError    undefined
+decodeURIComponent    Function    NaN           ReferenceError  URIError
+
+- PONTOS E VÍGULAS OPCIONAIS
